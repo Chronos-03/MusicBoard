@@ -26,9 +26,14 @@ Five `EC11` rotary encoders with integrated push switches provide real-time tact
 Integrated 1.9" `ST7789` IPS TFT display driven over a dedicated hardware SPI bus (`TFT_SCLK`, `TFT_MOSI`, `TFT_CS`, `TFT_DC`, `TFT_RST`) for live waveform visualization, instrument selection, envelope graphs, and battery status feedback.
 
 ## Full Schematics & PCB Layout
-- **Full System Schematic:** *[Images/schematics.png]*
-- **PCB Layout (Top & Bottom Copper):** *[]*
-- **3D PCB Render & Populated Board:** *[Add Link / Image Here]*
+
+![Schematic](Images/schematics.png)
+
+![PCB Front Layer](Images/PCBfrontlayer.png)
+
+![PCB Back Layer](Images/PCBbacklayer.png)
+
+![PCB View](Images/pcbview.png)
 
 ## Case Stack-up & CAD Dimensions
 The enclosure uses a custom 3D-printed top faceplate, integrated switch plate, and bottom shell designed for standard Cherry MX-style switches, dual oval speakers, and top-mounted controls.
